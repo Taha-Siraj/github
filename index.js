@@ -3,6 +3,7 @@ import moment from "moment";
 import simpleGit from "simple-git";
 
 const git = simpleGit();
+
 const path = "./data.json";
 
 const startDate = moment("2025-01-01");
